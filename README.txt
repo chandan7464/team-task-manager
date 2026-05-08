@@ -3,9 +3,9 @@ Team Task Manager - Full Stack Assessment
 =========================================
 1. LIVE DEMO & REPOSITORY
 =========================================
-Live URL: [Add your Railway URL here]
+Live URL: https://adorable-love-production.up.railway.app
 Demo Video: [Add your Video link here]
-GitHub Repo: [Add your GitHub link here]
+GitHub Repo: https://github.com/chandan7464/team-task-manager
 
 =========================================
 2. TECHNOLOGY STACK
