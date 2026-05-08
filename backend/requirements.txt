@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+# psycopg2-binary==2.9.9 (Uncomment when deploying to Railway)
+python-jose[cryptography]
+passlib[bcrypt]
+python-multipart
+pydantic[email]
+pydantic-settings
+alembic
+python-dotenv
