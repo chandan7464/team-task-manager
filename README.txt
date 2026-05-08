@@ -4,7 +4,7 @@ Team Task Manager - Full Stack Assessment
 1. LIVE DEMO & REPOSITORY
 =========================================
 Live URL: https://adorable-love-production.up.railway.app
-Demo Video: [Add your Video link here]
+Demo Video: https://www.loom.com/share/ef80dc0b11fd469a987c1603250f8a8e
 GitHub Repo: https://github.com/chandan7464/team-task-manager
 
 =========================================
